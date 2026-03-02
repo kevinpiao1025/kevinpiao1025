@@ -139,6 +139,6 @@
 
 - **GitHub**: [`kevinpiao1025`](https://github.com/kevinpiao1025)
 - **LinkedIn**: [`https://www.linkedin.com/in/kevin-piao-22b6003b4`](https://www.linkedin.com/in/kevin-piao-22b6003b4)
-- **Portfolio**: [`https://kevin-portfolio-delta-blond.vercel.app`](https://kevin-portfolio-delta-blond.vercel.app)
+- **Portfolio**: [`https://kevin-portfolio-omega-henna.vercel.app`](https://kevin-portfolio-omega-henna.vercel.app)
 - **Email**: `piaokevin98@gmail.com`
 
